@@ -1,0 +1,34 @@
+.consulta{
+	background: #F1F5F6;
+	width: 570px;
+	height: 100%;
+	position: relative;
+	left: 25%;
+	border: 1px solid #DFE2FF;
+}
+	
+.container{
+	margin-left: 50px;
+}
+
+.partida{
+	margin-left: 70px;
+}
+
+.campo{
+	
+	margin-right: 2em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	width: 400px;
+}
+
+.label{
+
+	margin-left: 1em;
+}
+
+.boton{
+	width: 220px;
+	margin: 20px 20px 20px 30px;
+}
